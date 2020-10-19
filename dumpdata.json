@@ -1,0 +1,20 @@
+[
+      {
+            "id": 1,
+            "fullname": "Sara Axmedova",
+            "age": 22,
+            "profession": "Django developer"
+      },
+      {
+            "id": 2,
+            "fullname": "Ali  Aliyev",
+            "age": 21,
+            "profession": "Artist"
+      },
+      {
+            "id": 5,
+            "fullname": "Nigar",
+            "age": 45,
+            "profession": "Colorist"
+      }
+]
